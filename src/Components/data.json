@@ -1,0 +1,78 @@
+{
+    "top": [
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/7ec7fc6b561a9dcd4d9e38d40892ba9be5ab559b5bbdce433a9f22abcbfa0f13?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Yaminah A",
+            "Designation": "President",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/3b2fe2a3cb2704ad57c04e5021dde4d75da7f16572577ee484519cb9eed2ef29?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Anushree Srinivasan",
+            "Designation": "Vice President",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c14c961999df2ff424ebbe052cb084cd942a1184e1541905c634b3f16cd9a932?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Yuvan A G",
+            "Designation": "Secretary",
+            "description": ""
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/b4dec203289d5c8fe4a6ec488031730db7996fcbea382249ed77447fc3f6b20f?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Franklen Joseph A G",
+            "Designation": "Join Secretary",
+            "description": ""
+        }
+    ],
+    "executives": [
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/e040c8ed66f5c78163acd5d1fabb57df798ccda21f667ce66be802bd4413c0eb?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Kiruthika L"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/8a786318fbf8386fa2883e00b734e1bbbce6c25d68bdc58fd94fd6c567cc65bd?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Kanishka"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/86e2f0224b48cd7bdca00a4475c5da8f838bf5fc41e83675b65356ceff156e6c?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "John Joshua A"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/ed326daf16926c90897605774ced910bce077c345ee4674ad0dd30143555fedc?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Harisha A"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c8043306b07c4615d4dbf6242e19505ee6bc1bd717a766c297b594268fbe318a?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Karthick Raja A"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/2875462d9063c353fb96a3e4f52e16caaa162b643f7699f7aca4df824448eb88?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Defina Sherin Pearly C"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/ae9f98796dfee009e384172ed1edcc3c97cb10a85bc96e835483b76a2de44d36?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Bala Bharathi V"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/019b745102de8b26f949533c862e108bd57524c6008f2bf3e5a2174320b0830d?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Dasdagheer S"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/c3bd6e5a6add63847c88b67bd7aff8f25d35d10cc52b92aea3fe14d832ef540c?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Zebedee Gonmei"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/b0e0b3341becd6379e085722b469ac64d96d7f3acad140941127ca0bbbd3996d?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Selvapriya Dharshini"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/7c35ba618de699efa89e357235d36b29155026f2cb22753d27aa3952060a4bc6?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Arun Kumar S"
+        },
+        {
+            "img": "https://cdn.builder.io/api/v1/image/assets/TEMP/f18d8d4fe9877933ae4dfdaf851f2e493aeb16e02d3652e14ec9b5610dbf1c99?placeholderIfAbsent=true&apiKey=6bcee3e3ed9847128d266201399eebb6",
+            "Name": "Swetha T"
+        }
+    ]
+}
